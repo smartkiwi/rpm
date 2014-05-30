@@ -59,7 +59,7 @@ rm -f $RPM_BUILD_ROOT/%{_libdir}/libprotobuf-c.la
 %{_libdir}/pkgconfig/libprotobuf-c.pc
 
 %changelog
-* Thu May 29 2013 Vladimir Vladimirov <smartkiwi@gmail.com> - 1.0.0-rc1
+* Thu May 29 2014 Vladimir Vladimirov <smartkiwi@gmail.com> - 1.0.0-rc1
 - updated to use latest protobuf-c version from github
 
 * Sun Apr 24 2011 David Robinson <zxvdr.au@gmail.com> - 0.15-2
