@@ -1,6 +1,6 @@
 Name:           protobuf-c
 Version:        1.0.0
-Release:        rc1.magnetic
+Release:        rc1
 Summary:        C bindings for Google's Protocol Buffers
 Group:          System Environment/Libraries
 License:        ASL 2.0
